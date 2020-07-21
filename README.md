@@ -1,2 +1,2 @@
-# There is nothing here yet!
+# The current online host for the game Cyberbunny Camgirl!
 
