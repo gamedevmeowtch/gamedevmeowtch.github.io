@@ -1,0 +1,52 @@
+.testme {
+  color: red;
+}
+
+h1 {
+  color: #c2c2ff;
+}
+
+#ui-bar {
+  background-color: rgba(0, 0, 0, 0.95);
+}
+
+.writing, .picture {
+  background-color: rgb(0, 0, 0); /* Old-browsers. */
+  background-color: rgba(0, 0, 0, 0.95);
+}
+
+#bbblock {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.bluetext {
+  color: blue;
+}
+
+.redtext {
+  color: red;
+}
+
+.warningyellow {
+  color: #cccc00;
+}
+
+.pasteldarkblue {
+  color: #c2c2ff;
+}
+  
+.pastelyellow {
+  color: #ffffc0;
+}
+
+.pccolor {
+  color: #ffc2f3;
+}
+
+.rcolor {
+  color: #e7c2ff;
+}
+
+.dgreen {
+  color: #c2ffce;
+}

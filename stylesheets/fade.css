@@ -1,0 +1,37 @@
+/* This isn't currently working. */
+
+.fadeOut3 {
+  opacity: 1;
+  animation: fadeOut ease 3s;
+  opacity: 0;
+}
+
+.fadeOut5 {
+  opacity: 1;
+  animation: fadeOut ease 5s;
+  opacity: 0;
+}
+
+.fadeOut7 {
+  opacity: 1;
+  animation: fadeOut ease 7s;
+  opacity: 0;
+}
+
+.fadeOut9 {
+  opacity: 1;
+  animation: fadeOut ease 9s;
+  opacity: 0;
+}
+
+.fadeOut11 {
+  opacity: 1;
+  animation: fadeOut ease 11s;
+  opacity: 0;
+}
+
+.fadeOut13 {
+  opacity: 1;
+  animation: fadeOut ease 13s;
+  opacity: 0;
+}
