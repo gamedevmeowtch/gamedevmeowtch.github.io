@@ -1,0 +1,21 @@
+.spread {
+  width: 100%;
+  display: flex;
+  flex-direction: column-reverse; /* column-reverse for mobile */
+  justify-content: center;
+  /*column-gap: 2%;*/
+  row-gap: 2%;
+}
+
+.writing, .picture {
+  border: 0px;
+  padding: 2%;
+  min-width: 20ch;
+  max-width: 52ch;
+}
+
+.picture {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
