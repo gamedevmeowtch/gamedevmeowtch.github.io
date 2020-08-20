@@ -25,7 +25,7 @@
 }
 
 .passage-text, .passage-img {
-  min-width: 20ch;
+  /*min-width: 20ch;*/
   max-width: 52ch;
 }
 
