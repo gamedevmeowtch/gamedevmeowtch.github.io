@@ -39,3 +39,29 @@
   width: 100%;
   height: auto;
 }
+
+.fullscreen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.first_title {
+  font-size: 16px;
+  font-size: 12vmin;
+}
+
+.second_title {
+  font-size: 16px;
+  font-size: 12vmin;
+}
+
+.third_title {
+  font-size: 16px;
+  font-size: 8vmin;
+}
+
+.fourth_title {
+  font-size: 16px;
+  font-size: 8vmin;
+}
