@@ -1,3 +1,8 @@
+body {
+  font-size: 16pt;
+  /* what is font size adjust? */
+}
+
 .spread {
   width: 100%;
   
