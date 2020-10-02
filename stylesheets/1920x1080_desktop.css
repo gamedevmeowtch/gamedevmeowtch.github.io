@@ -20,6 +20,8 @@
 .divider {
   min-height: 10px;
   min-width: 10px;
+  height: 1em;
+  width: 1em;
   max-height: 5%;
   max-width: 5%;
 }
